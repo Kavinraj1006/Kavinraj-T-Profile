@@ -1,4 +1,3 @@
-# Kavinraj-T-Profile
 # 👋 Hi there, I'm Kavinraj T!
 
 🎓 I'm a Biomedical Engineering graduate from V.S.B. Engineering College, with a strong passion for Healthcare, IT and emerging technologies.
