@@ -8,8 +8,13 @@
 - 💻 Tech Enthusiast with knowledge in **C**, **Java**
 - 🔬 Biomedical Projects: Myoelectric Prosthetic Arm, IoT for Alzheimer’s Monitoring
 - 🧬 Passionate about **3D Printing**, **Biomaterials**, and **Medical Coding**
-- 🤖 Bootcamp Graduate – PIECE AI & Postman API by LetsGrade
+- 🤖 Bootcamp Graduate – PIECE AI & Postman API by LetsUpgrade
 - 🚀 Aspiring to innovate in the intersection of healthcare and software
+
+## 🧪 Internships
+
+- 🧾 **Medical Coding Intern**  
+  Understood ICD, CPT, and HCPCS coding systems used in the healthcare industry. Developed attention to detail and domain understanding of medical documentation.
 
 ## 🌱 Currently Exploring
 - Real-world health-tech applications
