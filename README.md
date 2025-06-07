@@ -23,7 +23,7 @@
 
 ## 🔗 Let's Connect
 - 💼 LinkedIn - https://www.linkedin.com/in/kavinraj-t-724890284/
-- 🌐 Resume - (https://your-portfolio-link.com)
+- 🌐 Resume - https://drive.google.com/file/d/1wh1MK98TxpQsGSLTj4QqqxOU5TGR5NuE/view?usp=drivesdk
 - 📫 Email: t.kavinraj574@gmail.com
 
 ⭐ Check out my repositories and feel free to collaborate or connect!
